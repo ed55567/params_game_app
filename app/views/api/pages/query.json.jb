@@ -1,0 +1,4 @@
+{
+  message: @message,
+  numbers_game: @guess_number,
+}
